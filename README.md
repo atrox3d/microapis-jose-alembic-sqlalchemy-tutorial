@@ -3,3 +3,4 @@
 - alembic init migrations
 - edit alembic.ini
 - edit env.py
+- create model
