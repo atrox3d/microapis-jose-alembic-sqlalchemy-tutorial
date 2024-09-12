@@ -1,3 +1,4 @@
-1) pip install -r requirements.txt
-2) touch models.py
-3) alembic init migrations
+- pip install -r requirements.txt
+- touch models.py
+- alembic init migrations
+- edit alembic.ini
