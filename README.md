@@ -5,4 +5,4 @@
 - edit env.py
 - create model
 - alembic revision --autogenerate -m 'create user model'
-- 
+- alembic upgrade heads
