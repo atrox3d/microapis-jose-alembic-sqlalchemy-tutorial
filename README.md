@@ -2,3 +2,4 @@
 - touch models.py
 - alembic init migrations
 - edit alembic.ini
+- edit env.py
